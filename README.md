@@ -20,10 +20,9 @@ Compatible with **Android 2.3.3 (Gingerbread)** through **the most current** And
 
 ## Demo Video
 
-**Watch the Demo Video:**  
-[![Click here to watch the demo video](https://img.shields.io/badge/Video-Demo-blue.svg)](screenshots/lw_calculator_demo.mp4)
+[![Watch the demo video](http://img.youtube.com/vi/5oFCqfVGQnQ/0.jpg)](http://www.youtube.com/watch?v=5oFCqfVGQnQ)
 
-*Click on the badge to view the demo video.*
+*Click on the image to watch the video on YouTube.*
 
 <br />
 
@@ -58,6 +57,5 @@ Compatible with **Android 2.3.3 (Gingerbread)** through **the most current** And
 3. Make sure `minSdkVersion=10` in your `app/build.gradle`.
 4. Build/Run on your device or emulator.
 
-<br />
 ---
 
